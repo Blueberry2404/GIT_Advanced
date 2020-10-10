@@ -5,3 +5,5 @@ my Program, editedin internet app, version 1
 my Program, edited in GIT KRAKEN Computer app locally, version 2
 
 my Program, edited in GIT KRAKEN locally, version 3 - PS I AM HELLO WORLD
+
+my Program, edited in GIT KRAKEN locally, version 4 - PS I AM STILL HELLO WORLD - FOR CONFLICT
